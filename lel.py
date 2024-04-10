@@ -31,7 +31,7 @@ label_title.pack()
 frame = tk.Frame(window)
 frame.pack()
 
-# Input text fiezld
+# Input text field
 input_text = tk.Text(frame, height=5, width=30)
 input_text.pack(side=tk.LEFT)
 
